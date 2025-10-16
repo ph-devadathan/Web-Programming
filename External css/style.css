@@ -1,0 +1,18 @@
+*{
+background-color: aqua;
+}
+p{
+text-align: center;
+color: black;
+}
+#paral{
+text-align: center;
+color: red;
+}
+.center{
+color: brown;
+}
+p:hover{
+color:blue;
+}
+
